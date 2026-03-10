@@ -3,3 +3,7 @@
 anaconda_projects/
 
 *.zip
+*.xlsx
+
+**.idea/
+**__ptcache__/
